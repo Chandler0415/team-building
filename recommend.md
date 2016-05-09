@@ -7,6 +7,10 @@
 	*	[WeUI](https://github.com/weui/weui)
 		
 		WeUI 为微信 Web 服务量身设计
+		
+	*	[Font Awesome](http://www.bootcss.com/p/font-awesome/)	
+	
+		完美的图标字体,只为Bootstrap设计
 *	JS
 	*	[Backbone.js](http://backbonejs.org/)
 
@@ -15,3 +19,4 @@
 	*	[SUI](http://m.sui.taobao.org/)	
 	
 		轻量，小巧且精美的UI库,方便迅速搭建手机H5应用
+	*	[]
