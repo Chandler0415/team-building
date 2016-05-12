@@ -20,7 +20,7 @@
 
 	在实际项目中，代码以模块进行组织，AMD是在CommonJS的基础上考虑了浏览器的异步加载特性而产生的，可以让模块异步加载并保证执行顺序。而CommonJS的require函数则是同步加载。
 
-	*	cmd
+	*	CMD
 		
 		起源于node.js
 		
@@ -34,10 +34,21 @@
     		return sum;
 		};
 		
+		//increment.js
+		var add = require('math').add;
+		exports.increment = function(val) {
+		    return add(val, 1);
+		};
+		
+		//program.js
+		var inc = require('increment').increment;
+		var a = 1;
+		inc(a); // 2
+		
 		```	
 		
 
-	*	AMD
+	*	AMD(Asynchronous Module Definition)
 		
 		AMD设计出一个简洁的写模块API：
 
