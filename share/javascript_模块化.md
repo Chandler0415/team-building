@@ -2,7 +2,17 @@
 
 *	模块化变化历程
 	*	[前端模块化开发的价值](https://github.com/seajs/seajs/issues/547)
-	*	关注度分离
+	*	蛮荒时代
+				
+		*	命名冲突
+		*	依赖关系，js文件加载顺序
+	*	函数包装
+	*	命名空间
+	*	匿名自执行函数
+
+好处：	
+	
+*	关注度分离
 
 *	CMD,AMD规范
 	
@@ -10,6 +20,22 @@
 
 	在实际项目中，代码以模块进行组织，AMD是在CommonJS的基础上考虑了浏览器的异步加载特性而产生的，可以让模块异步加载并保证执行顺序。而CommonJS的require函数则是同步加载。
 
+	*	cmd
+		
+		起源于node.js
+		
+		```
+		//math.js
+		exports.add = function() {
+			var sum = 0, i = 0, args = arguments, l = args.length;
+    		while (i < l) {
+        	sum += args[i++];
+    		}
+    		return sum;
+		};
+		
+		```	
+		
 
 	*	AMD
 		
