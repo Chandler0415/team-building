@@ -14,10 +14,15 @@
 
 ###standard
 
+包含HTML，CSS, JS的书写规范
+
+
+###resource
+
+一些非常实用的资源
 
 
 ###share
 
+团队内部分享的全部资源
 
-
-###skill
