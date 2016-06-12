@@ -14,3 +14,6 @@
 
 *	综合
 	*	[最全的资源教程-前端涉及的所有知识体系](https://github.com/nicejade/Front-end-tutorial)	
+	
+*	移动开发
+	*	[移动端前端开发调试](http://yujiangshui.com/multidevice-frontend-debug/)			
