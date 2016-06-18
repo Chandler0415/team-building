@@ -22,7 +22,10 @@
 	*	[Sublime Text](http://www.sublimetext.com/)
 	*	[Atom](https://atom.io/)
 	
-
+*	版本控制
+	*	[git](https://git-scm.com/download)	
+		*	[git教程](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000/)
+		*	[gitflow](http://nvie.com/posts/a-successful-git-branching-model/)	
 	
 
 ###开发规范
