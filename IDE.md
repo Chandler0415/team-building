@@ -6,7 +6,10 @@
 	*	jQuery
 	*	[Backbone](http://www.css88.com/doc/backbone/)
 	*	[Require.js](http://www.requirejs.cn/)
-
+*	CSS & UI
+	*	[淘宝的REM](https://github.com/amfe/lib-flexible)	
+	*	[Amaze UI](http://amazeui.org/)	
+	
 *	构建工具
 	*	[gulp](http://www.gulpjs.com.cn/)	-	务必学会使用
 	*	[Node.js](http://www.runoob.com/nodejs/nodejs-tutorial.html)
