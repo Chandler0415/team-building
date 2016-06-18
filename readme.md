@@ -2,6 +2,11 @@
 
 收集整理团队培训，规范等资料。
 
+---
+**新人必读**： [`开发环境配置`](https://github.com/sapling-team/team-building/blob/master/IDE.md)
+
+---
+
 `说明`
 
 *	[plan.md](https://github.com/sapling-team/team-building/blob/master/plan.md) - 未来计划，准备分享的内容或者题材
