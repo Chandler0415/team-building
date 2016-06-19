@@ -29,6 +29,13 @@
 	*	[git](https://git-scm.com/download)	
 		*	[git教程](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000/)
 		*	[gitflow](http://nvie.com/posts/a-successful-git-branching-model/)	
+*	调试工具
+	*	[fiddler](http://www.telerik.com/fiddler)
+		*	[使用Fiddler做抓包分析](http://blog.csdn.net/ohmygirl/article/details/17849983)
+	*	[Nginx](http://nginx.org/en/download.html)
+		*	[Nginx中文手册](http://www.nginx.cn/nginx-how-to)
+	*	[使用gas&charles为移动端搭建测试环境](http://www.yuanxj.net/2015/07/mobile/)
+	*	[微信web开发者工具](https://mp.weixin.qq.com/wiki/10/e5f772f4521da17fa0d7304f68b97d7e.html)
 	
 
 ###开发规范
